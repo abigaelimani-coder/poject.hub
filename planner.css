@@ -136,7 +136,7 @@ input {
 
 .eyebrow,
 .section-label {
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 2px;
     color: #987db3;
     font-weight: 700;
@@ -154,7 +154,7 @@ input {
 }
 
 .planner-welcome p {
-    font-size: 13px;
+    font-size: 16px;
     color: #766b81;
     line-height: 1.8;
     max-width: 450px;
@@ -178,13 +178,13 @@ input {
 }
 
 .date-section h2 {
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 7px;
 }
 
 .date-note {
     color: var(--muted);
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .date-note span {
@@ -213,7 +213,7 @@ input {
 }
 
 .progress-heading h2 {
-    font-size: 19px;
+    font-size: 21px;
     margin-top: 8px;
 }
 
@@ -241,7 +241,7 @@ input {
 
 .progress-card > p {
     color: var(--muted);
-    font-size: 11px;
+    font-size: 15px;
 }
 
 /* =========================
@@ -269,7 +269,7 @@ input {
 }
 
 .card-heading h2 {
-    font-size: 21px;
+    font-size: 22px;
     margin-top: 8px;
 }
 
@@ -279,7 +279,7 @@ input {
 }
 
 .card-description {
-    font-size: 12px;
+    font-size: 13px;
     color: var(--muted);
     margin: 18px 0;
 }
@@ -303,7 +303,7 @@ input {
     border-radius: 10px;
     outline: none;
     color: var(--text);
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .task-form input:focus {
@@ -317,7 +317,7 @@ input {
     border: none;
     border-radius: 10px;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .task-form button:hover {
@@ -338,7 +338,7 @@ input {
     gap: 11px;
     padding: 13px 0;
     border-bottom: 1px solid var(--border);
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .task-item input {
@@ -367,18 +367,18 @@ input {
 }
 
 .empty-message {
-    font-size: 12px;
-    text-align: center;
     color: var(--muted);
+    font-size: 14px;
+    text-align: left;
     padding: 20px 0;
 }
 
 .text-button {
     border: none;
+    font-size: 12px;
     background: none;
     color: var(--purple);
     cursor: pointer;
-    font-size: 11px;
     margin-top: 18px;
 }
 
@@ -403,7 +403,7 @@ input {
 
 .priority-item span {
     color: #a48ac1;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -413,7 +413,7 @@ input {
     outline: none;
     background: transparent;
     color: var(--text);
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .priority-note {
@@ -422,7 +422,7 @@ input {
     border-radius: 10px;
     background: #f5eff9;
     color: #887395;
-    font-size: 11px;
+    font-size: 17px;
     line-height: 1.6;
 }
 
@@ -465,7 +465,7 @@ input {
 }
 
 .day-card span {
-    font-size: 9px;
+    font-size: 11px;
     color: var(--muted);
     font-weight: 700;
 }
@@ -476,7 +476,7 @@ input {
 
 .day-card small {
     color: var(--muted);
-    font-size: 9px;
+    font-size: 12px;
 }
 
 /* =========================
@@ -499,12 +499,12 @@ input {
 }
 
 .planner-footer-card h2 {
-    font-size: 18px;
+    font-size: 20px;
     color: #493b57;
 }
 
 .planner-footer-card p {
-    font-size: 12px;
+    font-size: 15px;
     color: #81738c;
     line-height: 1.7;
     margin-top: 6px;
@@ -520,7 +520,7 @@ footer {
     padding: 25px 7%;
     border-top: 1px solid var(--border);
     color: var(--muted);
-    font-size: 11px;
+    font-size: 13px;
 }
 
 footer a {

@@ -395,6 +395,9 @@ body.dark .hidden-note p { color: #eee2f6; }
     letter-spacing: 2px;
     font-weight: 600;
 }
+p{
+    font-size: 17px;
+}
 
 /* Dark mode */
 

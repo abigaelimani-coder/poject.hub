@@ -145,7 +145,7 @@ button {
 
 .eyebrow,
 .section-label {
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 2px;
     color: #987db3;
     font-weight: 700;
@@ -165,7 +165,7 @@ button {
 
 .welcome-content p {
     color: #766b81;
-    font-size: 14px;
+    font-size: 17px;
     line-height: 1.8;
     max-width: 390px;
 }
@@ -179,7 +179,7 @@ button {
     color: white;
     padding: 13px 20px;
     border-radius: 11px;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
     transition: 0.25s;
 }
@@ -350,19 +350,19 @@ button {
 }
 
 .card-category {
-    font-size: 9px;
+    font-size: 11px;
     letter-spacing: 1.5px;
     color: var(--muted);
     font-weight: 700;
 }
 
 .workspace-card h3 {
-    font-size: 21px;
+    font-size: 22px;
     margin: 7px 0;
 }
 
 .workspace-card p {
-    font-size: 12px;
+    font-size: 15px;
     color: var(--muted);
     line-height: 1.7;
     max-width: 300px;
@@ -543,7 +543,7 @@ body.dark .closing-section p {
     }
 
     .workspace-card p {
-        font-size: 11px;
+        font-size: 15px;
     }
 
     .reminder-section {

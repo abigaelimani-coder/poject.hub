@@ -136,7 +136,7 @@ select {
 
 .eyebrow,
 .section-label {
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 2px;
     color: #987db3;
     font-weight: 700;
@@ -155,7 +155,7 @@ select {
 
 .welcome-content p {
     color: #766b81;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.8;
     max-width: 420px;
 }
@@ -169,7 +169,7 @@ select {
     background: #9273b0;
     color: white;
     border-radius: 10px;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
     transition: 0.25s;
 }
@@ -221,12 +221,12 @@ select {
 }
 
 .journal-date h2 {
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 8px;
 }
 
 .date-decoration {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--muted);
 }
 
@@ -259,7 +259,7 @@ select {
 }
 
 .writing-prompt p {
-    font-size: 13px;
+    font-size: 16px;
     margin-top: 7px;
     line-height: 1.6;
 }
@@ -314,7 +314,7 @@ select {
 
 .journal-form label {
     display: block;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 650;
     margin: 20px 0 9px;
 }
@@ -333,7 +333,7 @@ select {
     border: 1px solid var(--border);
     border-radius: 10px;
     outline: none;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .journal-form input:focus,
@@ -358,7 +358,7 @@ select {
 
 .writing-note {
     color: var(--muted);
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .save-btn {
@@ -367,7 +367,7 @@ select {
     color: white;
     border: none;
     border-radius: 10px;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 600;
     cursor: pointer;
     transition: 0.2s;
@@ -387,7 +387,7 @@ select {
 
 .section-description {
     color: var(--muted);
-    font-size: 12px;
+    font-size: 15px;
     margin-top: -10px;
     margin-bottom: 20px;
 }
@@ -409,7 +409,7 @@ select {
 .gratitude-item span {
     color: #a48ac1;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .gratitude-item input {
@@ -418,7 +418,7 @@ select {
     background: transparent;
     border: none;
     outline: none;
-    font-size: 12px;
+    font-size: 15px;
     color: #493b57;
 }
 
@@ -429,13 +429,13 @@ select {
     border-radius: 10px;
     background: #9273b0;
     color: white;
-    font-size: 11px;
+    font-size: 14px;
     cursor: pointer;
 }
 
 .gratitude-message {
     font-size: 11px;
-    margin-top: 12px;
+    margin-top: 14px;
     color: #755c8b;
 }
 
@@ -457,7 +457,7 @@ select {
     background: var(--surface);
     color: var(--text);
     outline: none;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .search-input:focus {
@@ -480,13 +480,13 @@ select {
 
 .entry-date {
     color: var(--purple);
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 1px;
 }
 
 .entry-card h3 {
     margin: 12px 0;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .entry-mood {
@@ -495,13 +495,13 @@ select {
     border-radius: 20px;
     background: #f3edf8;
     color: #886ca3;
-    font-size: 10px;
+    font-size: 12px;
     margin-bottom: 12px;
 }
 
 .entry-content {
     color: var(--muted);
-    font-size: 12px;
+    font-size: 15px;
     line-height: 1.8;
     white-space: pre-wrap;
     overflow-wrap: anywhere;
@@ -512,7 +512,7 @@ select {
     border: none;
     background: none;
     color: #b17d96;
-    font-size: 11px;
+    font-size: 13px;
     cursor: pointer;
 }
 
@@ -520,7 +520,7 @@ select {
     text-align: center;
     padding: 35px 15px;
     color: var(--muted);
-    font-size: 13px;
+    font-size: 15px;
 }
 
 /* =========================
@@ -541,14 +541,14 @@ select {
 
 .journal-closing h2 {
     margin: 12px 0;
-    font-size: 21px;
+    font-size: 23px;
     color: #493b57;
 }
 
 .journal-closing p {
     max-width: 430px;
     margin: auto;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 1.8;
     color: #81738c;
 }
@@ -563,7 +563,7 @@ footer {
     padding: 25px 7%;
     border-top: 1px solid var(--border);
     color: var(--muted);
-    font-size: 11px;
+    font-size: 13px;
 }
 
 footer a {
